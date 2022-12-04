@@ -36,7 +36,7 @@ namespace UserInterface
 
             // This boolean will tell us if the person is on the list of people who can enter the common room
             // We do not want to collect data from people who are not even allowed to access
-            bool PersonOK = true;
+            bool PersonOK=true;
 
             try
             {

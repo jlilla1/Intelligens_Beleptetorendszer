@@ -221,7 +221,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "AddPersonContacts";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Hallgató elérhetőségei";
+            this.Text = "Személy elérhetőségei";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.AddPersonContacts_FormClosing);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
